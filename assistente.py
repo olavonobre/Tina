@@ -4,7 +4,7 @@ import datetime
 import wikipedia
 import pywhatkit
 
-
+#tenho que fazer a interação com o usuario
 audio = sr.Recognizer()
 maquina = pyttsx3.init()
 
